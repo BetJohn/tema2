@@ -1,0 +1,32 @@
+*{
+    background-color: aqua;
+}
+#button1{
+    background-color: red;
+    margin-left: 13%;
+    border-radius: 50%;
+}
+#button2{
+    background-color: green;
+    margin-left: 13%;
+    border-radius: 50%;
+}
+#button3{
+    background-color: yellow;
+    margin-left: 13%;
+    border-radius: 50%;
+}
+#button4{
+    background-color: blue;
+    margin-left: 13%;
+    border-radius: 50%;
+}
+#button5{
+    background-color: purple;
+    margin-left: 13%;
+    border-radius: 50%;
+
+}
+#butonADD{
+    background-color: red;
+}
